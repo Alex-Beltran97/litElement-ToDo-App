@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "taskName": "Comprar Jabon",
+      "completed": false,
+      "id": "7560b101-76cf-488e-a98e-0dd1a132b838"
+    },
+    {
+      "taskName": "Limpiar la casa",
+      "completed": false,
+      "id": "66e74b8a-190d-48a8-951a-706c7952b8c2"
+    },
+    {
+      "taskName": "Generar inversiones",
+      "completed": false,
+      "id": "6c54bc63-8eaf-4351-8af4-4dcbc8f564c8"
+    }
+  ]
+}
